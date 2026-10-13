@@ -1,0 +1,18 @@
+{
+  "manifest": 1,
+  "name": "Lord009988",
+  "id": "dein-eindeutiger-id-name",
+  "description": "Syncro_test",
+  "lastUpdate": 0,
+  "nongs": {
+    "hosted": {
+      "eindeutige-id-1": {
+        "name": "Grief Test",
+        "artist": "idk und kein bock nachzuschauen",
+        "startOffset": 0,
+        "url": "https://dein-server.de/audio/zeile1.mp3",
+        "songs": [123456]
+      }
+    }
+  }
+}
