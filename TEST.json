@@ -1,16 +1,16 @@
 {
   "manifest": 1,
   "name": "Lord009988",
-  "id": "Syncro for Harvest Sun",
-  "description": "Syncro_test",
+  "id": "Syncro test",
+  "description": "Syncro test",
   "lastUpdate": 0,
   "nongs": {
     "hosted": {
       "39052791-5db7-4867-a688-15ce167756ef": {
-        "name": "Grief Test",
-        "artist": "idk und kein bock nachzuschauen",
+        "name": "test",
+        "artist": "test",
         "startOffset": 0,
-        "url": "https://github.com/demianhentschelnew-prog/Syncro-f-r-GD/blob/f8945e81ede13a25b26db4bcaf44a3960e8e2cb0/2026-10-13_09-36-44.mp4",
+        "url": "https://raw.githubusercontent.com/demianhentschelnew-prog/Syncro-f-r-GD/main/MP3FEUERSCHWANZ-Meister-der-Minne.mp3",
         "songs": [123456]
       }
     }
